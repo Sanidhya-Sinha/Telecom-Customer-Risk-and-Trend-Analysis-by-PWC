@@ -1,4 +1,4 @@
-SKills : Power BI, Calculating Measures, Defining KPIs, Insight and Actions, Power BI Dashboard, Self-Reflection, Understanding Problem Statement.
+SKills : Power BI, Excel, Data Analytics, Calculating Measures, Defining KPIs, Insight and Actions, Power BI Dashboard, Self-Reflection, Understanding Problem Statement.
 
 Description : 
 - Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
